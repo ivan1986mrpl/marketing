@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@import 'mixins';
+@import 'vars';
+@import 'reset';
+@import 'global';
+
+@import 'swiper/swiper';
+
+@import 'layers/header';
+@import 'layers/promo';
+@import 'layers/our-work';
+@import 'layers/our-client';
+@import 'layers/our-portfolio';
+@import 'layers/our-posts';
+@import 'layers/footer';
+
